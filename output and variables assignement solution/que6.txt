@@ -1,0 +1,5 @@
+1. 01Pwskills : can not be a variable name because variable name cant start with any number
+2. _FLOAT : it can be a variable name
+3. int : can not be a variable name because variable name cant start with any keayword
+4. FLOAT = it can be a variable name
+5. You will succeed : cant be a variable name because there should not be any space between variable name
