@@ -1,0 +1,10 @@
+according to code:
+x = 2, y = 3 and m = 6
+now as z = (x*y)%m
+z = (2*3)%6
+z = 6%6
+z = 0
+
+
+output:-
+Output is: 0

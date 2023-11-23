@@ -1,0 +1,6 @@
+according to que : x = 3 and y = 2
+(x!=y)=(3!=2)=true=1
+(x>=y)=(3>=2)=true=1
+
+output:
+1 1
