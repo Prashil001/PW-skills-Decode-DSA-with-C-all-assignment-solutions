@@ -1,0 +1,5 @@
+as Ascii value of '1' is 49 so
+
+output:
+First character 1
+Second character 49 
