@@ -1,0 +1,2 @@
+1. True (we can call a function many times as we want)
+2. False ( it is not necessary for a function to return a value as we can use void function which does not return anything )

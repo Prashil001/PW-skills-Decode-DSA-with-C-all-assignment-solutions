@@ -1,0 +1,1 @@
+we can use the same function name many times in different functions if either the no of arguments are different or the data type is different

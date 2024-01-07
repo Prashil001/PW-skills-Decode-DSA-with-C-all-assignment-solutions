@@ -1,0 +1,2 @@
+ans = 1
+reason = the main function is also a function
