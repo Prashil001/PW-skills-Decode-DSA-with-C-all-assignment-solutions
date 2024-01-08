@@ -1,0 +1,1 @@
+as we haven't initialized the address inside the pointer and we are trying to access the value stored in that address so it will give an error

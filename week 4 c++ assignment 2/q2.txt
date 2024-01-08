@@ -1,0 +1,2 @@
+ans:-
+1. syntax is incorrect ( as we cant declare a pointer with an integer)
