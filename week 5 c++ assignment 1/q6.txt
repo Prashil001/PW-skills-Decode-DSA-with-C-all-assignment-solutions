@@ -1,0 +1,2 @@
+we have an array of size 50
+using for loop from i=0 to i=48(49 elements), each index will have value equals to the index number except for i=49
