@@ -1,0 +1,2 @@
+ans:
+1. it needs o(1) or o(nlogn) memory to create auxilary locations.
