@@ -1,0 +1,2 @@
+2. 1 3 5
+because in each iteration of loop, it will make head move two steps forward
